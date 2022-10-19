@@ -1,11 +1,11 @@
 import React from 'react';
-import sorting from './sorting/sorting';
+import Sorting from './sorting/sorting';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <sorting></sorting>
+      <Sorting></Sorting>
     </div>
   );
 }

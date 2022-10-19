@@ -1,0 +1,11 @@
+.arr_bar {
+    width: 2px;
+    background-color: coral;
+    display: inline-block;
+    margin: 0 1px;
+}
+.arr_container{
+    top: 5px;
+    width: 100%;
+    position: absolute;
+}
